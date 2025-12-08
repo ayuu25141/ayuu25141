@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ayuu25141
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ayush  Chauhan 👋
 
-<!---
-ayuu25141/ayuu25141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 About Me
+I'm a Full-stack developer passionate about Go, MERN stack, and Core Java. I love building projects that solve real-world problems.
+
+## 💻 Tech Stack
+- **Languages:** Go, JavaScript, Java, 
+- **Frameworks:** React, Node.js, Springboot ,Fiber, 
+- **Databases:** PostgreSQL, MongoDB , Redis
+
+
+
+## 📫 Contact Me
+- LinkedIn: [link]
+- Email: your.email@example.com
