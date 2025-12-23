@@ -11,5 +11,4 @@ I'm a Full-stack developer passionate about Go, MERN stack, and Core Java. I lov
 
 
 ## 📫 Contact Me
-- LinkedIn: [link]
-- Email: your.email@example.com
+- Email: ayushchauhan753753@gmail.com
